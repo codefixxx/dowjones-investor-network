@@ -75,7 +75,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](./LICEN
 
 ## 👤 Author
 
-**Your Name**  
+**Ayush Mishra**  
 GitHub: [@codefixxx](https://github.com/codefixxx)
 
 ---
